@@ -1,0 +1,20 @@
+This is server run task part 1
+
+To run this project install 
+
+1:npm install node model.
+
+2:make .env file and and give this SKIP_PREFLIGHT_CHECK=true
+
+4:install cheerio dependence here: npm i cheerio
+
+3: run this command node server.js
+
+
+This is ract clinet ui run Part 2 run task:
+
+1:install nodemodules.
+
+2:create .env file and paste this  SKIP_PREFLIGHT_CHECK=true
+
+3:in package.json file add this dependence: "start": "react-scripts --openssl-legacy-provider start",
